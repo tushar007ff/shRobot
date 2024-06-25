@@ -1,12 +1,12 @@
 class Config(object):
     LOGGER = True
-    API_ID =None 
-    API_HASH = ""
+    API_ID = 29920508
+    API_HASH = "10676e77085a5214bcea5ca17cda5778"
     TOKEN = ""  
     OWNER_ID=None
     
-    SUPPORT_CHAT = "" 
-    START_IMG = ""
+    SUPPORT_CHAT = "INCREDIBLExGENOCIDE" 
+    START_IMG = "https://telegra.ph/file/3759a248d0f805fa9f0ef.jpg"
     EVENT_LOGS = ()
     MONGO_DB_URI= ""
    
